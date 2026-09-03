@@ -89,78 +89,6 @@ Currently, I'm focusing on improving my development skills while building projec
 
 ---
 
-## 🚀 Things I've Built
-
-### 📚 Sistem Informasi Pelanggaran & Prestasi
-
-A web-based information system designed to help manage student violation and achievement records.
-
-**Built with:**
-
-`Laravel` · `Tailwind CSS` · `MySQL`
-
----
-
-### 🏫 Sistem Peminjaman Ruangan
-
-A room reservation management system developed to simplify the process of managing room availability, bookings, and related data.
-
-**Built with:**
-
-`Laravel` · `Tailwind CSS` · `MySQL` · `Alpine.js`
-
----
-
-### ☕ Cafe / POS System
-
-A web application concept for managing cafe operations, including products, transactions, and supporting management features.
-
-**Built with:**
-
-`React` · `Laravel` · `MySQL`
-
----
-
-### 📱 Mobile Application Experiments
-
-Exploring mobile application development using React Native and Expo, including navigation, API integration, and modern mobile UI development.
-
-**Built with:**
-
-`React Native` · `Expo` · `NativeWind`
-
----
-
-## 💼 Experience
-
-### Web Developer Intern
-
-**Politeknik NSC Surabaya**
-
-`November 2025 — February 2026`
-
-Worked on web development projects while gaining practical experience in application development, database integration, and implementing features based on project requirements.
-
----
-
-## 🎓 Education
-
-### Universitas Pembangunan Nasional "Veteran" Jawa Timur
-
-**Information Systems — Faculty of Computer Science**
-
-Currently exploring the world of information systems, software development, databases, business processes, and technology.
-
----
-
-### SMK Negeri 10 Surabaya
-
-**Software Engineering (RPL)**
-
-Built a foundation in software development, web programming, databases, and application development.
-
----
-
 ## 🧭 Currently Exploring
 
 ```text
@@ -230,13 +158,13 @@ I'm looking forward to exploring:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Rickyadty">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)">
+  <a href="mailto:[YOUR_EMAIL@gmail.com](mailto:rickyaditya3055@gmail.com)">
     <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
