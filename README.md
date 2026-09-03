@@ -9,18 +9,6 @@
   learning new technologies, and building things that actually work.
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 A Little About Me
@@ -152,27 +140,3 @@ I'm looking forward to exploring:
 * ☁️ Deployment & cloud technologies
 * 🤖 AI-assisted application development
 * 📊 Information systems & business processes
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Rickyadty">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL@gmail.com](mailto:rickyaditya3055@gmail.com)">
-    <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by! 🚀</i>
-</p>
-
-<p align="center">
-  <sub>Made with curiosity, caffeine, and a lot of debugging.</sub>
-</p>
