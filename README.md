@@ -107,36 +107,3 @@ I'm currently interested in understanding not only **how to code**, but also **w
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rickyadty&theme=transparent" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rickyadty&theme=transparent&utcOffset=7" width="49%" />
 </p>
-
----
-
-## 🎯 My Development Philosophy
-
-> **Don't just make it work. Understand why it works.**
-
-I believe every project is an opportunity to learn something new.
-
-Sometimes it's about writing cleaner code.
-
-Sometimes it's about understanding a database.
-
-Sometimes it's about fixing a bug at 2 AM. 😄
-
-And sometimes the most important lesson is simply realizing that there is a better way to build something.
-
----
-
-## 🌱 What's Next?
-
-My current goal is to keep growing from someone who **can build applications** into someone who can **design and understand complete information systems**.
-
-I'm looking forward to exploring:
-
-* 🧩 Better software architecture
-* 🔌 Scalable REST APIs
-* ⚛️ Advanced React development
-* 🏗️ Laravel backend architecture
-* 🗃️ Better database design
-* ☁️ Deployment & cloud technologies
-* 🤖 AI-assisted application development
-* 📊 Information systems & business processes
